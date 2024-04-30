@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sponsorkit": "^0.10.1",
+    "typescript": "^5.4.5"
+  }
+}
